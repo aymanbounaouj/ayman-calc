@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aymanbouanouj.github.io/ayman-calc/"><strong>Live Demo</strong></a>
+  <a href="https://aymanbounaouj.github.io/ayman-calc/"><strong>Live Demo</strong></a>
 </p>
 
 ## Preview
@@ -81,7 +81,7 @@ No build step or package installation is required.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/aymanbouanouj/ayman-calc.git
+git clone https://github.com/aymanbounaouj/ayman-calc.git
 ```
 
 2. Open the project folder:
@@ -108,4 +108,4 @@ cd ayman-calc
 
 **Ayman Bounaouj**
 
-GitHub: [@aymanbouanouj](https://github.com/aymanbouanouj)
+GitHub: [@aymanbounaouj](https://github.com/aymanbounaouj)
